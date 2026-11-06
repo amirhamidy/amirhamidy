@@ -1,34 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#161b2e"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00ffc3"/>
-      <stop offset="1" stop-color="#ff0a7a"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="900" height="230" rx="16" fill="url(#bg)"/>
-  <rect x="0.5" y="0.5" width="899" height="229" rx="16" fill="none" stroke="#30363d"/>
-  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#accent)"/>
-
-  <text x="450" y="104" text-anchor="middle"
-        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="800"
-        fill="#e6edf3" letter-spacing="0.5">Amir Mehdi Hamidy</text>
-
-  <text x="450" y="140" text-anchor="middle"
-        font-family="Consolas, Menlo, monospace" font-size="17" fill="#8b949e">Frontend Developer · SaaS Builder</text>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" text-anchor="middle">
-    <rect x="158" y="166" width="170" height="36" rx="18" fill="#229ED9"/>
-    <text x="243" y="189" fill="#ffffff">@AMIRIXAM</text>
-
-    <rect x="340" y="166" width="200" height="36" rx="18" fill="#FF0A7A"/>
-    <text x="440" y="189" fill="#ffffff">SABZEVAR, IRAN</text>
-
-    <rect x="552" y="166" width="190" height="36" rx="18" fill="#00FFC3"/>
-    <text x="647" y="189" fill="#0d1117">3+ YEARS EXPERIENCE</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="240" viewBox="0 0 790 240" fill="none">
+  <rect x="0.5" y="0.5" width="789" height="239" rx="12" fill="#0f1a24" stroke="#2c4256"/>
+  <text x="48" y="112" fill="#e6eef5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-0.8">Amir Mahdi</text>
+  <text x="48" y="150" fill="#8BA7BF" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Frontend Developer &amp; SaaS Creator</text>
+  <rect x="48" y="176" width="164" height="32" rx="6" fill="#5B7C99"/>
+  <text x="130" y="197" text-anchor="middle" fill="#f4f8fb" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500">Next.js · TypeScript</text>
 </svg>
