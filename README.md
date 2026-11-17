@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://t.me/Amirixam"><img src="https://img.shields.io/badge/Telegram-@Amirixam-5B7C99?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
+
 <svg xmlns="http://www.w3.org/2000/svg" width="790" height="260" viewBox="0 0 790 260" fill="none">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
